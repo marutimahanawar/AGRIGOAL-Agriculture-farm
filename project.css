@@ -1,0 +1,25 @@
+.navbar{
+    font-size: 20px;
+    background-color:#f5f0e9;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#logo{
+    height: 60px;
+    width: 150px;
+}
+#projects
+{
+    background-color:#404a3d;
+}
+#heading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#project{
+    background-color:#f5f0e9;
+}
+.footer{
+    background-color: #404a3d;
+}
+.copyright{
+    background-color: #394236;
+}

@@ -1,0 +1,42 @@
+.navbar{
+    font-size: 20px;
+    background-color:#f5f0e9;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#logo{
+    height: 60px;
+    width: 150px;
+}
+#carousal1-heading{
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+}
+#carousal1-data{
+    font-size: 30px;
+    color:yellow;
+}
+.img-fluid:hover{
+    transform: scale(1.1);
+}
+#heading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#services{
+    background-color: #f5f0e9;
+}
+#project{
+    background-color:#f5f0e9;
+}
+#services-img:hover{
+    transform: scale(1.1);
+}
+.footer{
+    background-color: #404a3d;
+}
+.expirence{
+    background-color:  #f5f0e9;
+}
+.copyright{
+    background-color: #394236;
+}

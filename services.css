@@ -1,0 +1,35 @@
+.navbar{
+    font-size: 20px;
+    background-color:#f5f0e9;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#logo{
+    height: 60px;
+    width: 150px;
+}
+#services
+{
+    background-color:#404a3d;
+}
+#heading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hover-effect{
+    background-color: #f5f0e9;
+}
+.hover-effect:hover
+{
+    background-color: green;
+    color: white;
+    transform: scale(1.05);
+      
+}
+.expirence{
+    background-color:  #f5f0e9;
+}
+.footer{
+    background-color: #404a3d;
+}
+.copyright{
+    background-color: #394236;
+}
