@@ -10,7 +10,7 @@
 #carousal1-heading{
     font-size: 60px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:white;
+    color:black;
 }
 #carousal1-data{
     font-size: 30px;
@@ -39,4 +39,8 @@
 }
 .copyright{
     background-color: #394236;
+}
+.carousel-caption{
+    background-color:rgb(26, 216, 96);
+
 }
